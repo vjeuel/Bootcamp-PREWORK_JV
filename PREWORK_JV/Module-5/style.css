@@ -1,0 +1,56 @@
+html {
+   font-size: 10px;
+}
+
+body {
+   width: 900px;
+}
+
+.red {
+   color: red;
+}
+
+.blue {
+   color: blue;
+}
+
+.green {
+   color: green;
+}
+
+.big {
+   font-size: 25px;
+}
+
+.tiny {
+   font-size: 5px;
+}
+
+.center-text {
+   text-align: center;
+}
+
+.bold {
+   font-weight: 800;
+}
+
+.diff-font {
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.many-atr {
+   font-size: 25px;
+   color: orange;
+   font-weight: 800;
+}
+
+.styledFont {
+   font-size: 15px;
+   line-height: 2;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   color: #9C7459;
+}
+
+#styledImage {
+   border: rgb(2, 64, 116) 10px solid;
+}
